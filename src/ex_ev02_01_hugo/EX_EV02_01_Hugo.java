@@ -43,6 +43,7 @@ public class EX_EV02_01_Hugo {
         }
         //devuelve impar
         return (imparesIgnorados);
+        
     }
     
 }
